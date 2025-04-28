@@ -15,7 +15,7 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/vmanot/CorePersistence.git",
       "state" : {
-        "revision" : "38fd5271fa906a2d8395e4b42724142886a3c763"
+        "revision" : "2a34aac9103bc1885243f26411143069d55cfa25"
       }
     },
     {
