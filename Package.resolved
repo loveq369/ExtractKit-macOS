@@ -4,7 +4,7 @@
     {
       "identity" : "browserkit",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/johnbean393/BrowserKit/",
+      "location" : "https://github.com/loveq369/BrowserKit/",
       "state" : {
         "branch" : "main",
         "revision" : "2d20df8329f18f972fa486c936b617e15d1b4f57"
